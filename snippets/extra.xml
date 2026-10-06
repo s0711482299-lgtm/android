@@ -32,6 +32,4 @@
   <project path="system/bpf" name="system_bpf" groups="pdk" remote="evo" />
   <project path="system/libhwbinder" name="system_libhwbinder" remote="evo" />
 
-  <!-- Vendor -->
-  <project path="vendor/gms" name="vendor_gms" remote="evo-codeberg" clone-depth="1" />
 </manifest>
